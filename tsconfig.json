@@ -46,9 +46,6 @@
       "@images/*": [
         "assets/images/*"
       ],
-      "@sanity": [
-        "../sanity.js"
-      ],
       "@typings": [
         "../typings.d.ts"
       ],
