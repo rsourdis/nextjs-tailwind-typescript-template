@@ -40,6 +40,18 @@
       "@hooks/*": [
         "hooks/*"
       ],
+      "@assets/*": [
+        "assets/*"
+      ],
+      "@images/*": [
+        "assets/images/*"
+      ],
+      "@sanity": [
+        "../sanity.js"
+      ],
+      "@typings": [
+        "../typings.d.ts"
+      ],
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
